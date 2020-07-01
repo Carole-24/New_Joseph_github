@@ -6,7 +6,6 @@ print(y)
 x = np.random.randn(5)
 print(x)
 z =x+y
-
 print(z)
 
 print('carole')
