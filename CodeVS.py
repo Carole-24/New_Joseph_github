@@ -12,3 +12,6 @@ print('carole')
 
 w = np.sum(x-y)
 print(w)
+
+
+
