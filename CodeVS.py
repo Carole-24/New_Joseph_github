@@ -9,3 +9,6 @@ z =x+y
 print(z)
 
 print('carole')
+
+w = np.sum(x-y)
+print(w)
